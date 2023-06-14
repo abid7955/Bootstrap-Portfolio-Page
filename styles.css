@@ -1,0 +1,67 @@
+/* Custom Styles */
+
+body {
+    padding-top: 56px;
+  }
+  
+  .navbar {
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .navbar-dark {
+    background-color: #162F44;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: #fca311;
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  h2 {
+    margin-bottom: 30px;
+  }
+  
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icon {
+    color: #fff;
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  
+  .social-icon:hover {
+    color: #fca311;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  .card-title {
+    margin-bottom: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #fca311;
+    border-color: #fca311;
+  }
+  
+  .btn-primary:hover {
+    background-color: #e68a00;
+    border-color: #e68a00;
+  }
+  
+  footer {
+    margin-top: 60px;
+    color: #fff;
+  }
+  
