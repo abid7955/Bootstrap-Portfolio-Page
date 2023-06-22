@@ -17,7 +17,7 @@ body {
   }
   
   .navbar-dark .navbar-nav .nav-link:hover {
-    color: #fca311;
+    color: #066aca;
   }
   
   section {
@@ -33,13 +33,13 @@ body {
   }
   
   .social-icon {
-    color: #fff;
+    color: black;
     font-size: 24px;
     margin-right: 10px;
   }
   
   .social-icon:hover {
-    color: #fca311;
+    color: #066aca;
   }
   
   .card {
@@ -51,13 +51,13 @@ body {
   }
   
   .btn-primary {
-    background-color: #fca311;
-    border-color: #fca311;
+    background-color: #066aca;
+    border-color: #066aca;
   }
   
   .btn-primary:hover {
-    background-color: #e68a00;
-    border-color: #e68a00;
+    background-color: #066aca;
+    border-color: #066aca;
   }
   
   footer {
